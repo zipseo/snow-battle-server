@@ -1,0 +1,16 @@
+{
+  "name": "snow-battle-relay",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WebSocket relay for Snow Battle multiplayer",
+  "main": "snow-battle-server.js",
+  "scripts": {
+    "start": "node snow-battle-server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
