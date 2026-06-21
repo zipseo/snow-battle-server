@@ -1,8 +1,8 @@
 {
   "name": "snow-battle-relay",
-  "version": "1.1.0",
+  "version": "1.0.1",
   "private": true,
-  "description": "WebSocket relay + accounts and saved games for Snow Battle",
+  "description": "WebSocket relay + account save API for Snow Battle multiplayer",
   "main": "snow-battle-server.js",
   "scripts": {
     "start": "node snow-battle-server.js"
